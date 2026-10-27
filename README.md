@@ -60,7 +60,7 @@ jupyter notebook Derivable_Judgement.ipynb
 ```
 ## 👨‍💻 Author
 
-**mukesh kote**
+**Mukesh kote**
 
 ---
 
