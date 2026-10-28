@@ -7,7 +7,7 @@
 [![SciPy](https://img.shields.io/badge/SciPy-Statistical%20Tests-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
 [![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)]()
 
-
+---
 
 As a data analyst at a public health research organization, this project uses statistical techniques on a 600-record health dataset (age, weight, gender, region, smoking, exercise, BMI, blood pressure, cholesterol, glucose, diabetes, hypertension) to decide which factors significantly affect disease occurrence.
 
